@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/dethereal/Storage/Projects/Seph/bin",
+            "binaryPath": "/home/dethereal/Storage/Projects/Seph/bin/my_program",
+            "binaryArgs": []
+        }
+    ]
+}
